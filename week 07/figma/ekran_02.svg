@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+<rect x="0" y="0" width="390" height="844" rx="0" fill="#f6f7fb" stroke="none"/>
+<text xml:space="preserve" x="22" y="26.0" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#18213d">09:41</text>
+<text xml:space="preserve" x="318" y="25.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#18213d">100%</text>
+<text xml:space="preserve" x="20" y="72.0" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#18213d">StudyFlow</text>
+<text xml:space="preserve" x="296" y="65.0" font-family="Inter, Arial, sans-serif" font-size="9" font-weight="700" fill="#5465df">TR / EN</text>
+<text xml:space="preserve" x="354" y="72.0" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="400" fill="#607080">☁</text>
+<rect x="0" y="764" width="390" height="80" rx="0" fill="#eeedf5" stroke="none"/>
+<rect x="41" y="779" width="6" height="6" rx="1" fill="#607080" stroke="none"/>
+<rect x="50" y="779" width="6" height="6" rx="1" fill="#607080" stroke="none"/>
+<rect x="41" y="788" width="6" height="6" rx="1" fill="#607080" stroke="none"/>
+<rect x="50" y="788" width="6" height="6" rx="1" fill="#607080" stroke="none"/>
+<text xml:space="preserve" x="18" y="822.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#607080">Özet</text>
+<rect x="119" y="773" width="54" height="27" rx="16" fill="#e0e2ff" stroke="none"/>
+<text xml:space="preserve" x="138" y="797.0" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#607080">✓</text>
+<text xml:space="preserve" x="115" y="822.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#5465df">Görevler</text>
+<ellipse cx="244.5" cy="786.5" rx="9.5" ry="9.5" fill="#eeedf5" stroke="#607080" stroke-width="2"/>
+<text xml:space="preserve" x="212" y="822.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#607080">Odaklan</text>
+<rect x="331" y="790" width="4" height="8" rx="1" fill="#607080" stroke="none"/>
+<rect x="337" y="781" width="4" height="17" rx="1" fill="#607080" stroke="none"/>
+<rect x="343" y="774" width="4" height="24" rx="1" fill="#607080" stroke="none"/>
+<text xml:space="preserve" x="309" y="822.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#607080">İlerleme</text>
+<rect x="143" y="834" width="104" height="4" rx="2" fill="#18213d" stroke="none"/>
+<text xml:space="preserve" x="20" y="130.0" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" fill="#18213d">Görevlerin</text>
+<rect x="282" y="98" width="88" height="40" rx="22" fill="#5465df" stroke="none"/>
+<text xml:space="preserve" x="300" y="123.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">+ Ekle</text>
+<rect x="20" y="162" width="350" height="56" rx="5" fill="#f6f7fb" stroke="#8591a7"/>
+<text xml:space="preserve" x="32" y="166.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#607080">Görev ara</text>
+<rect x="20" y="235" width="350" height="44" rx="22" fill="#e6e7fb" stroke="none"/>
+<text xml:space="preserve" x="39" y="262.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="400" fill="#18213d">Bekleyen       Biten        Tümü</text>
+<rect x="20" y="300" width="350" height="101" rx="14" fill="#f1eff8" stroke="none"/>
+<rect x="36" y="335" width="19" height="19" rx="3" fill="#f6f7fb" stroke="#8491a8"/>
+<text xml:space="preserve" x="68" y="328.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#18213d">Matris işlemlerini tekrar et</text>
+<text xml:space="preserve" x="68" y="350.0" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="400" fill="#607080">Lineer Cebir · 03.11.2026</text>
+<text xml:space="preserve" x="68" y="375.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#b34242">Yüksek öncelik · Gecikmiş</text>
+<rect x="20" y="415" width="350" height="101" rx="14" fill="#f1eff8" stroke="none"/>
+<rect x="36" y="450" width="19" height="19" rx="3" fill="#f6f7fb" stroke="#8491a8"/>
+<text xml:space="preserve" x="68" y="443.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#18213d">Proje raporunu tamamla</text>
+<text xml:space="preserve" x="68" y="465.0" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="400" fill="#607080">Mobil Programlama · 06.11.2026</text>
+<text xml:space="preserve" x="68" y="490.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#607080">Yüksek öncelik</text>
+<rect x="20" y="530" width="350" height="101" rx="14" fill="#f1eff8" stroke="none"/>
+<rect x="36" y="565" width="19" height="19" rx="3" fill="#f6f7fb" stroke="#8491a8"/>
+<text xml:space="preserve" x="68" y="558.0" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" fill="#18213d">Newton yöntemi örneklerini çöz</text>
+<text xml:space="preserve" x="68" y="580.0" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="400" fill="#607080">Sayısal Yöntemler · 07.11.2026</text>
+<text xml:space="preserve" x="68" y="605.0" font-family="Inter, Arial, sans-serif" font-size="11" font-weight="400" fill="#607080">Normal öncelik</text>
+</svg>
